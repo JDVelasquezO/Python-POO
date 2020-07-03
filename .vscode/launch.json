@@ -9,7 +9,11 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
+<<<<<<< HEAD
             "console": "externalTerminal"
+=======
+            "console": "integratedTerminal"
+>>>>>>> c1e4514bc0f39c38ebf380b97b80ea1963d4fd97
         }
     ]
 }
